@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="8977" tvg-name="Trendeki Kız" tvg-logo="https://m.prectv49.sbs/uploads/cache/poster_thumb/uploads/jpg/2c43a1a80c9d17c19a26da1cb300f151.jpg" group-title="Son Filmler", Trendeki Kız
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/8/cdn1611/JUjOO36wYywX1ON3nrsV4UJCZZWnpQLROY7dGZvv.mp4/index.m3u8
